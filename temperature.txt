@@ -1,0 +1,6 @@
+//
+1. prompt user for temperature in Farenheit
+2. save user interger
+3. input given interger into the formula (x-32) * 5/9
+4. save and reprompt user the calculate number
+//
